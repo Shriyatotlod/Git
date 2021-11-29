@@ -1,3 +1,5 @@
+vimrc file
+
 1. Add numbering:
    set number
 
