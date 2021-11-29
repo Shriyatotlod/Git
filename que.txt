@@ -1,0 +1,24 @@
+1. Add numbering:
+   set number
+
+2. Add syntax coloring:
+   syntax on
+
+3. Add auto indentation:
+   set autoindent
+
+4. Add a color scheme:
+   colorscheme elflord
+
+5. Highlight searches:
+   set hlsearch
+
+6. Ignore case when searching, unless you type it out explicitly:
+   set ic (ic is ignorecase)
+
+7. Increase the speed of scrolling:
+   set lazyredraw
+
+8. For txt files enable spell-check:
+   set spell
+
